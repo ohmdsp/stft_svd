@@ -1,2 +1,2 @@
 # stft_svd
-Subspace denoising and linear prediction for signal feature extraction
+Matlab code and publication for micro-signature extraction using sub-space enhanced linear predictive extrapolation. 
